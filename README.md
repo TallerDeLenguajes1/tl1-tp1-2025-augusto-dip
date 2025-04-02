@@ -43,3 +43,6 @@ _Ejemplo básico de un archivo .gitignore:_
 4. #Ignorar archivos temporales del sistema operativo
 Thumbs.db
 .DS_Store
+
+# Punto 2)g)
+_Se refiere a que si bien los archivos son los mismos vamos haciendo cambios por encima y modificando en cada commit los puntos planteados. En el punto 4 obtengo un archivo del mismo tipo solo que en este usamos todo el tiempo las funciones propuestas por el enunciado, o no se que diferencia ademas de esa puedan tener estos archivos._
